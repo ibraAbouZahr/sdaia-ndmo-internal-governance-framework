@@ -1,3 +1,5 @@
+## How long each data type is stored and why.
+
 # 🗄️ Data Retention Policy
 
 **Entity**: National Data Management Office (NDMO) – Mock Governance Project  
