@@ -2,6 +2,8 @@
 
 This project presents a simulated data governance framework for the **National Data Management Office (NDMO)**, part of the **Saudi Data and AI Authority (SDAIA)**. It demonstrates how data governance can be applied in a public sector environment, using best practices from **DAMA-DMBOK** and the **Saudi National Data Governance Framework**.
 
+![NDMO Logo](NDMOLogo.png)
+
 ## 📌 Project Objectives
 
 - Apply theoretical data governance concepts in a real-world-inspired context.
