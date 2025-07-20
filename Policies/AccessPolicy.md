@@ -54,6 +54,10 @@ NDMO is committed to ensuring secure, role-based access to data to maintain conf
 3. IT team provisions access and notifies the requestor.
 4. Access is time-bound and subject to periodic review.
 
+# Sample Access Request Log
+
+![Access Request Log](AccessRequestLog.PNG)
+
 ---
 
 ## 8. Violations and Enforcement
@@ -79,4 +83,4 @@ This policy is reviewed annually or upon significant changes in regulations or o
 - Kingdom of Saudi Arabia’s Personal Data Protection Law (PDPL)
 - ISO/IEC 27001 and 27701 Standards
 
-[ KSA Data Privacy Compliance (PDPL)](https://ahlancyber.com/wp-content/themes/ahlan/pdpl/images/brochure/ksa_data_privacy_compliance.pdf)
+[KSA Data Privacy Compliance (PDPL)](https://ahlancyber.com/wp-content/themes/ahlan/pdpl/images/brochure/ksa_data_privacy_compliance.pdf)
