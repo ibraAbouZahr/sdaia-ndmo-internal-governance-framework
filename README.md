@@ -55,7 +55,7 @@ Visuals illustrating:
 ## 🧰 Tools & Technologies
 
 - **Markdown (.md)** — Policy and documentation
-- **Excel (.xlsx)** — Metadata catalog
+- **Excel (.xlsx)** — Metadata catalog format
 - **Draw.io / Lucidchart** — Diagrams
 - **GitHub** — Project hosting and version control
 
