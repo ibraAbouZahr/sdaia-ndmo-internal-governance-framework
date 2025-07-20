@@ -33,8 +33,8 @@ NDMO is committed to ensuring secure, role-based access to data to maintain conf
 | ----------------------- | -------------------------------------------------------------- |
 | **Public Access**       | Data accessible without restrictions.                          |
 | **Internal Access**     | Data accessible only to NDMO employees and authorized parties. |
-| **Restricted Access**   | Data that requires formal approval before access.              |
-| **Confidential Access** | Highly sensitive data with limited access to key personnel.    |
+| **Confidential Access** | Data that requires formal approval before access.              |
+| **Sensitive Access**    | Highly sensitive data with limited access to key personnel.    |
 
 ---
 
@@ -78,3 +78,5 @@ This policy is reviewed annually or upon significant changes in regulations or o
 - NDMO National Data Governance Policies
 - Kingdom of Saudi Arabia’s Personal Data Protection Law (PDPL)
 - ISO/IEC 27001 and 27701 Standards
+
+[ KSA Data Privacy Compliance (PDPL)](https://ahlancyber.com/wp-content/themes/ahlan/pdpl/images/brochure/ksa_data_privacy_compliance.pdf)
