@@ -1,4 +1,4 @@
-## levels: Public, Internal, Confidential, Sensitive.
+## Levels: Public, Internal, Confidential, Sensitive.
 
 # 📚 Data Classification Policy
 
