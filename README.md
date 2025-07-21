@@ -56,7 +56,7 @@ Visuals illustrating:
 
 - **Markdown (.md)** — Policy and documentation
 - **Excel (.xlsx)** — Metadata catalog format
-- **Draw.io / Lucidchart** — Diagrams
+- **Napkin / PowerBI** — Diagrams
 - **GitHub** — Project hosting and version control
 
 ## 🎯 Learning Outcomes
